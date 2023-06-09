@@ -1,0 +1,167 @@
+h1 {
+    font-family: 'Anton', sans-serif;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+a:hover {
+    color: #F9F5F6;
+}
+/* Hero Section */
+
+#hero-section {
+    height: 100vh;
+    background-color: #F9F5F6;
+
+}
+
+.nav-item {
+    color: white;
+    font-size: larger;
+    font-family: 'Sarala', sans-serif;
+}
+
+.nav-link {
+    color: white;
+}
+
+.hero-div {
+    text-align: center;
+    margin-top: 200px;
+}
+
+
+/* Resume Section */
+
+#resume-section {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.resume-div {
+    text-align: center;
+}
+
+.link {
+    font-size: 20px;
+    font-family: 'Sarala', sans-serif;
+}
+
+.button {
+    margin-top: 50px;
+}
+
+/* Projects Section */
+
+#projects-section {
+   height: 120vh;
+   background-color: #F9F5F6;
+}   
+
+.projects-div {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.project-1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    line-height: 2;
+    font-family: 'Cabin', sans-serif;
+}
+
+.tindog {
+    width: 25%;
+    float: left;
+    border-style: solid 5px white;
+}
+.project-2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    line-height: 2;
+    font-family: 'Cabin', sans-serif;
+}
+
+.mondrian {
+    width: 25%;
+    float: right;
+}
+
+.project-3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    line-height: 2;
+    font-family: 'Cabin', sans-serif;
+}
+
+.portfolio {
+    width: 25%;
+    float: left;
+}
+/* About Me Section */
+
+#about-me-section {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.hobbies {
+    margin-top: 70px;
+}
+
+.football {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    position: relative;
+    right: 300px;
+    
+}
+
+.gaming {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+.cricket {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    position: relative;
+    left: 300px;
+}
+
+
+/* Contact Me Section */
+
+#contact-me-section {
+    background-color: #F9F5F6;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.contact-div {
+    
+}
